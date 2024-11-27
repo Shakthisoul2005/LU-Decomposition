@@ -47,7 +47,8 @@ print(solution)
 ```
 ## Output:
 ![image 1](<Screenshot 2024-11-26 224429.png>)
-![image 2](<Screenshot 2024-11-27 203919.png>)
+![Screenshot 2024-11-27 213729](https://github.com/user-attachments/assets/4794b843-cf7c-42c6-b30e-96dc4527fac1)
+
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
