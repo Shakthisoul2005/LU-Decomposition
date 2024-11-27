@@ -40,7 +40,6 @@ RegisterNumber:
 
 ## Output:
 ![image 1](<Screenshot 2024-11-26 224429.png>)
-![inmage 2](<Screenshot 2024-11-27 203930.png>)
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
