@@ -37,9 +37,17 @@ Developed by:
 RegisterNumber: 
 */
 ```
-
+import numpy as np
+from scipy.linalg import lu_factor,lu_solve
+matrix=np.array(eval(input()))
+b=np.array(eval(input()))
+x=lu_factor(matrix)
+solution=lu_solve(x,b)
+print(solution)
+```
 ## Output:
 ![image 1](<Screenshot 2024-11-26 224429.png>)
+![image 2](<Screenshot 2024-11-27 203919.png>)
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
