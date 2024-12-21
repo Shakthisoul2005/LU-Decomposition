@@ -15,6 +15,7 @@ To write a program to find the LU Decomposition of a matrix.
 ## Program:
 (i) To find the L and U matrix
 /*
+```
 Program to find the LU Decomposition of a matrix.
 Developed by: Shakthivel v
 RegisterNumber:24901278 
@@ -28,6 +29,7 @@ print(l_matrix)
 print(u_matrix)
 ```
 (ii) To find the LU Decomposition of a matrix
+```
 /*
 Program to find the LU Decomposition of a matrix.
 Developed by: Shakthivel v
