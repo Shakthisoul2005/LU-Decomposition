@@ -32,8 +32,6 @@ b from the user.
 7.End Program: Ensure the program concludes after displaying the solution
 ```
 
-
-```  
 ## Program:
 (i) To find the L and U matrix
 ```
